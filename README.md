@@ -1,2 +1,1 @@
-# Network & Communication Security Project
-## Task 1
+# Network & Communication Security Project (DDoS Attack)

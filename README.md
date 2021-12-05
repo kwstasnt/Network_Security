@@ -3,12 +3,12 @@
 DDoS attack performed step by step.
 
 1) First of all we start Swarmlab-hybrid by typing the following 2 commands in terminal
+ 
+        cd swarmlab-hybrid
 
-    cd swarmlab-hybrid
+        ./start.sh
 
-     ./start.sh
-
-2) Then we go to http://localhost:3088/ -> Instances -> Container -> Select dummy_service -> Connect -> Run in terminal "docker exec -it dummy_service /bin/sh"
+2) Then we go to http://localhost:3088/ -> Instances -> Container -> Select dummy_service -> Connect
 
 3) After that we proceed inside the terminal by typing the following commands
 
